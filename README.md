@@ -8,8 +8,8 @@ Pour les labels
 1:Anxiety/Depression
 
 # Etapes:
-Exploratory Data Analysis (EDA)
-Text Preprocessing
-Vectorsation
-Modeling
-Model testing
+- Exploratory Data Analysis (EDA)
+- Text Preprocessing
+- Vectorsation
+- Modeling
+- Model testing
