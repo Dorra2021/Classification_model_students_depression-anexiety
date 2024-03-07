@@ -7,3 +7,9 @@ Pour les labels
 0:No Anxiety/Depression
 1:Anxiety/Depression
 
+# Etapes:
+Exploratory Data Analysis (EDA)
+Text Preprocessing
+Vectorsation
+Modeling
+Model testing
