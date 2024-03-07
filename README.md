@@ -13,3 +13,4 @@ Pour les labels
 - Vectorsation
 - Modeling
 - Model testing
+- Deploiement de modele de ML via FastAPI
