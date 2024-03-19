@@ -10,7 +10,7 @@ Pour les labels
 # Etapes:
 - Exploratory Data Analysis (EDA)
 - Text Preprocessing
-- Vectorsation
+- Vectorisation
 - Modeling
 - Model testing
 - Deploiement de modele de ML via FastAPI
